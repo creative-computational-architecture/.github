@@ -12,6 +12,7 @@ Analysis · mathematics · art · geometry · philosophy · aesthetics · archit
 |---|---|
 | [quakelab](https://github.com/creative-computational-architecture/quakelab) | Interactive 3D earthquake simulation & structural assessment in the browser — Newmark-Beta time-history analysis, TBDY-2018 checks, collapse scenarios |
 | [plug-in-parasite](https://github.com/creative-computational-architecture/plug-in-parasite) | Parametric deployable mast-tent — Rhino/Grasshopper system, technical drawings, AI-cinematic films |
+| [cca-lefebvre](https://github.com/creative-computational-architecture/cca-lefebvre) | Native point-cloud workstation for architectural survey — scan placement, wall candidates, survey sheets, DXF export to CAD (Python, Qt, Open3D, GPL-3.0) |
 
 More is coming — we publish finished work, refined for the public.
 
